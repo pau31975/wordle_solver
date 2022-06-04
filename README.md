@@ -1,2 +1,3 @@
 # wordle_solver
 a project i made when i was bored ...
+>>> It help the player solves the world-famous 'Wordle' game by NYTimes.
